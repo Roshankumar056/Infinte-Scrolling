@@ -19,4 +19,4 @@ This project is a simple infinite scrolling website built with HTML, CSS, and Ja
 - JavaScript
 
 ## Author
-[Your Name]
+[Roshan kumar]
